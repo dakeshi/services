@@ -1,0 +1,46 @@
+{
+  "events": [
+    {
+      "id": "translation_completed",
+      "name": "Translation completed",
+      "description": "When a translation is completed.",
+      "selected": true
+    },
+    {
+      "id": "review_completed",
+      "name": "Review completed",
+      "description": "When a Review is completed.",
+      "selected": true
+    },
+    {
+      "id": "proofread_completed",
+      "name": "Proofread completed",
+      "description": "When a Proofread is completed.",
+      "selected": true
+    },
+    {
+      "id": "fillup_completed",
+      "name": "Fillup completed",
+      "description": "When translation fillup is completed.",
+      "selected": true
+    },
+    {
+      "id": "translated",
+      "name": "Translation in progress",
+      "description": "When a translation is in progress",
+      "selected": false
+    },
+    {
+      "id": "reviewed",
+      "name": "Review in progress",
+      "description": "When a review is in progress",
+      "selected": false
+    },
+    {
+      "id": "proofread",
+      "name": "Proofreading in progress",
+      "description": "When proofreading is in progress",
+      "selected": false
+    }
+  ]
+}

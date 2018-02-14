@@ -1,0 +1,9 @@
+{
+  "headers": {},
+  "body": {
+    "project": "go spec project",
+    "resource": "receive operator",
+    "language": "ko",
+    "reviewed": 40
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "headers": {},
+  "body": {
+    "project": "go spec project",
+    "resource": "receive operator",
+    "language": "ko",
+    "translated": 100,
+    "event": "translation_completed"
+  }
+}
